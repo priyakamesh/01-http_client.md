@@ -1,0 +1,19 @@
+{
+  "name": "01-http_client.md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyakamesh/01-http_client.md.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyakamesh/01-http_client.md/issues"
+  },
+  "homepage": "https://github.com/priyakamesh/01-http_client.md#readme"
+}
